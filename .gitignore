@@ -1,0 +1,5 @@
+config.edn
+.lsp
+.cpcache
+.calva
+.clj-kondo
